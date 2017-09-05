@@ -1,0 +1,73 @@
+* { margin: 0; padding: 0; }
+
+body {
+  font-family: 'Overpass Mono', monospace;
+  background: #0074d1;
+  color: #fff;
+}
+
+h1, h2, h3 {
+  padding-bottom: 12px;
+}
+
+.content {
+  margin: 0 auto;
+  width: 800px;
+  padding: 20px;
+  text-align: center;
+}
+
+header  {
+  margin-top: 100px;
+  display: block;
+  height: 400px;
+}
+
+header img {
+  float: left;
+  border: 2px solid #fff;
+  width: 330px;
+  height: 330px;
+}
+
+header .headline {
+  float: right;
+  display: block;
+  width: 430px;
+  text-align: left;
+  padding-top: 88px;
+}
+
+/* Menu  */
+header ul {
+  margin-top: 20px;
+}
+header ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+header ul li a {
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 12px;
+  background: #fff;
+  color: #0074d1;
+  text-decoration: none;
+}
+
+header ul li a:hover {
+  color: #fff;
+  background: inherit;
+}
+
+/* Footer  */
+footer {
+  /* background: #fff; */
+  /* color: #0074d1; */
+  margin-top: 20px;
+}
+footer .copyleft {
+  display: inline-block;
+  transform: rotate(180deg);
+}
