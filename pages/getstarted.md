@@ -3,10 +3,6 @@ layout: page
 title: Get started
 permalink: /get_started/
 ---
- RobotlegsJS
-===
-
-[![Gitter chat](https://badges.gitter.im/RobotlegsJS/RobotlegsJS.svg)](https://gitter.im/RobotlegsJS/RobotlegsJS)
 
 RobotlegsJS is a architecture-based IoC framework for JavaScript/TypeScript. This
 version is a direct port from the [ActionScript 3.0 codebase](https://github.com/robotlegs/robotlegs-framework).
@@ -14,6 +10,8 @@ See the [motivation](#motivation) behind it.
 
 Right now, this framework have extensions for [pixi.js v4](http://www.pixijs.com) and
 [phaser-ce v2.8](http://phaser.io).
+
+Would you like to integrate RobotlegsJS core with another HTML5/JavaScript framework or library? Send us a message through [Gitter](https://gitter.im/RobotlegsJS/RobotlegsJS) or [Mail](mailto:contact@robotlegsjs.io).
 
 **Features**
 
