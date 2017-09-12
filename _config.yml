@@ -1,7 +1,7 @@
 # Site settings
 title: RobotlegsJS
-email: robotlegsjs@robotlegsjs.io
-url: https://robotlegsjs.github.io
+email: contact@robotlegsjs.io
+url: http://robotlegsjs.io
 description: "An architecture-based IoC framework for JavaScript/TypeScript"
 keywords: "TypeScript, Robotlegs, IoC"
 skills: "TypeScript, Robotlegs, IoC"
@@ -37,9 +37,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: envelope-o
-    url: mailto:npmjs@robotlegsjs.io
+    url: mailto:contact@robotlegsjs.io
   - title: twitter
-    url: twitter
+    url: robotlegsjs
   - title: github
     url: https://github.com/robotlegsjs
 
