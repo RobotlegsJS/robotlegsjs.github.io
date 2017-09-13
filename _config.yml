@@ -11,7 +11,7 @@ meta_author: RobotlegsJS
 google_verify: In7gv1uJ-wMLmUMpf7-169xbOJt4XcCoOyxunDqb_PY
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+bing_verify: B357EE8B71F0B829EAF406C6104C4BB2
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
