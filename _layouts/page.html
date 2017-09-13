@@ -1,19 +1,23 @@
 <!DOCTYPE html>
 <html>
-{% include head.html %}
+    {% include head.html %}
 
-<body id="page-top" class="index">
-    {% include nav.html %}
-    <section id="about">
-        <div class="container">
+    <body id="page-top" class="index">
+        {% include nav.html %}
+        
+        <section id="about">
+            <div class="container">
                 <h2>{{page.title}}</h2>
                 <hr>
-            {{content}}
-        </div>
-    </section>
+                {{content}}
+            </div>
+        </section>
 
-    {% include footer.html %}
-    {% include js.html %}
-</body>
+        {% include footer.html %}
+        {% include js.html %}
 
+        {% if jekyll.environment == 'production' %}
+        {% include analytics.html %}
+        {% endif %}
+    </body>
 </html>
