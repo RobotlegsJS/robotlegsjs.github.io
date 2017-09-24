@@ -42,6 +42,12 @@ RobotlegsJS-Pixi-Palidor
 - [See all RobotlegsJS-Pixi-Palidor issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Pixi-Palidor/issues?utf8=%E2%9C%93&q=is%3Aissue)
 - [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Pixi-Palidor/issues/new)
 
+RobotlegsJS-Pixi-SignalMediator
+===
+
+- [See all RobotlegsJS-Pixi-SignalMediator issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Pixi-SignalMediator/issues?utf8=%E2%9C%93&q=is%3Aissue)
+- [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Pixi-SignalMediator/issues/new)
+
 RobotlegsJS-Phaser
 ===
 
