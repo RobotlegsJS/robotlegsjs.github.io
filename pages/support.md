@@ -48,14 +48,20 @@ RobotlegsJS-Pixi-SignalMediator
 - [See all RobotlegsJS-Pixi-SignalMediator issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Pixi-SignalMediator/issues?utf8=%E2%9C%93&q=is%3Aissue)
 - [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Pixi-SignalMediator/issues/new)
 
+RobotlegsJS-Phaser-CE
+===
+
+- [See all RobotlegsJS-Phaser-CE issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Phaser-CE/issues?utf8=%E2%9C%93&q=is%3Aissue)
+- [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Phaser-CE/issues/new)
+
+RobotlegsJS-Phaser-CE-SignalCommandMap
+===
+
+- [See all RobotlegsJS-Phaser-CE-SignalCommandMap issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Phaser-CE-SignalCommandMap/issues?utf8=%E2%9C%93&q=is%3Aissue)
+- [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Phaser-CE-SignalCommandMap/issues/new)
+
 RobotlegsJS-Phaser
 ===
 
 - [See all RobotlegsJS-Phaser issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Phaser/issues?utf8=%E2%9C%93&q=is%3Aissue)
 - [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Phaser/issues/new)
-
-RobotlegsJS-Phaser-SignalCommandMap
-===
-
-- [See all RobotlegsJS-Phaser-SignalCommandMap issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Phaser-SignalCommandMap/issues?utf8=%E2%9C%93&q=is%3Aissue)
-- [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Phaser-SignalCommandMap/issues/new)

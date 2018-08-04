@@ -8,10 +8,10 @@ RobotlegsJS is a architecture-based IoC framework for JavaScript/TypeScript. Thi
 version is a direct port from the [ActionScript 3.0 codebase](https://github.com/robotlegs/robotlegs-framework).
 See the [motivation](#motivation) behind it.
 
-Right now, this framework have extensions for [pixi.js v4](http://www.pixijs.com) and
-[phaser-ce v2.8](http://phaser.io).
+Right now, this framework has extensions for [pixi.js v4](https://github.com/pixijs/pixi.js),
+[phaser-ce](https://github.com/photonstorm/phaser-ce) and [phaser](https://github.com/photonstorm/phaser).
 
-Would you like to integrate RobotlegsJS core with another HTML5/JavaScript framework or library? Send us a message through [Gitter](https://gitter.im/RobotlegsJS/RobotlegsJS) or [Mail](mailto:contact@robotlegsjs.io).
+Would you like to integrate RobotlegsJS core with another HTML5/JavaScript framework or library? Send us a message through [Gitter](https://gitter.im/RobotlegsJS/RobotlegsJS) or [Email](mailto:contact@robotlegsjs.io).
 
 **Features**
 
@@ -23,11 +23,12 @@ Would you like to integrate RobotlegsJS core with another HTML5/JavaScript frame
 
 - [RobotlegsJS-Macrobot](https://github.com/RobotlegsJS/RobotlegsJS-Macrobot): extends commands, adding support to async and macro commands.
 - [RobotlegsJS-SignalCommandMap](https://github.com/RobotlegsJS/RobotlegsJS-SignalCommandMap): maps [SignalsJS](https://github.com/RobotlegsJS/SignalsJS) to commands.
-- [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi): integrate RobotlegsJS with [PixiJS](http://www.pixijs.com).
+- [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi): integrate RobotlegsJS with [PixiJS](https://github.com/pixijs/pixi.js).
 - [RobotlegsJS-Pixi-Palidor](https://github.com/RobotlegsJS/RobotlegsJS-Pixi-Palidor): a view manager extension for [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi).
 - [RobotlegsJS-Pixi-SignalMediator](https://github.com/RobotlegsJS/RobotlegsJS-Pixi-SignalMediator): a port of [Robotlegs SignalMediator Extension](https://github.com/MrDodson/robotlegs-extensions-SignalMediator) to TypeScript.
-- [RobotlegsJS-Phaser](https://github.com/RobotlegsJS/RobotlegsJS-Phaser): integrate RobotlegsJS with [Phaser](http://phaser.io).
-- [RobotlegsJS-Phaser-SignalCommandMap](https://github.com/RobotlegsJS/RobotlegsJS-Phaser-SignalCommandMap): maps [Phaser.Signal](https://photonstorm.github.io/phaser-ce/Phaser.Signal.html) to commands.
+- [RobotlegsJS-Phaser-CE](https://github.com/RobotlegsJS/RobotlegsJS-Phaser-CE): integrate RobotlegsJS with [Phaser-CE](https://github.com/photonstorm/phaser-ce).
+- [RobotlegsJS-Phaser-CE-SignalCommandMap](https://github.com/RobotlegsJS/RobotlegsJS-Phaser-CE-SignalCommandMap): maps [Phaser.Signal](https://photonstorm.github.io/phaser-ce/Phaser.Signal.html) to commands.
+- [RobotlegsJS-Phaser](https://github.com/RobotlegsJS/RobotlegsJS-Phaser): integrate RobotlegsJS with [Phaser](https://github.com/photonstorm/phaser).
 
 Motivation
 ===
@@ -36,7 +37,7 @@ There are plenty of frameworks and patterns out there that helps you to write
 DOM-based applications. There is no scalable solution yet to architecture a
 canvas-based application though.
 
-[Robotlegs](http://www.robotlegs.org) has proven itself of being a mature solution from the ActionScript
+[Robotlegs](https://github.com/robotlegs/robotlegs-framework) has proven itself of being a mature solution from the ActionScript
 community for interactive experiences.
 
 License
