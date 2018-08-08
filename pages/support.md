@@ -65,3 +65,9 @@ RobotlegsJS-Phaser
 
 - [See all RobotlegsJS-Phaser issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Phaser/issues?utf8=%E2%9C%93&q=is%3Aissue)
 - [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Phaser/issues/new)
+
+RobotlegsJS-CreateJS
+===
+
+- [See all RobotlegsJS-CreateJS issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-CreateJS/issues?utf8=%E2%9C%93&q=is%3Aissue)
+- [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-CreateJS/issues/new)
