@@ -48,6 +48,18 @@ RobotlegsJS-Pixi-SignalMediator
 - [See all RobotlegsJS-Pixi-SignalMediator issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Pixi-SignalMediator/issues?utf8=%E2%9C%93&q=is%3Aissue)
 - [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Pixi-SignalMediator/issues/new)
 
+RobotlegsJS-CreateJS
+===
+
+- [See all RobotlegsJS-CreateJS issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-CreateJS/issues?utf8=%E2%9C%93&q=is%3Aissue)
+- [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-CreateJS/issues/new)
+
+RobotlegsJS-OpenFL
+===
+
+- [See all RobotlegsJS-OpenFL issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-OpenFL/issues?utf8=%E2%9C%93&q=is%3Aissue)
+- [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-OpenFL/issues/new)
+
 RobotlegsJS-Phaser-CE
 ===
 
@@ -65,9 +77,3 @@ RobotlegsJS-Phaser
 
 - [See all RobotlegsJS-Phaser issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Phaser/issues?utf8=%E2%9C%93&q=is%3Aissue)
 - [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-Phaser/issues/new)
-
-RobotlegsJS-CreateJS
-===
-
-- [See all RobotlegsJS-CreateJS issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-CreateJS/issues?utf8=%E2%9C%93&q=is%3Aissue)
-- [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-CreateJS/issues/new)

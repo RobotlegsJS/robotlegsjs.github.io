@@ -14,10 +14,12 @@ permalink: /extensions/
 
 - [RobotlegsJS-Pixi-SignalMediator](https://github.com/RobotlegsJS/RobotlegsJS-Pixi-SignalMediator): a port of [Robotlegs SignalMediator Extension](https://github.com/MrDodson/robotlegs-extensions-SignalMediator) to TypeScript.
 
+- [RobotlegsJS-CreateJS](https://github.com/RobotlegsJS/RobotlegsJS-CreateJS): integrate RobotlegsJS with [EaselJS](https://github.com/CreateJS/EaselJS).
+
+- [RobotlegsJS-OpenFL](https://github.com/RobotlegsJS/RobotlegsJS-OpenFL): integrate RobotlegsJS with [OpenFL](https://github.com/openfl/openfl).
+
 - [RobotlegsJS-Phaser-CE](https://github.com/RobotlegsJS/RobotlegsJS-Phaser-CE): integrate RobotlegsJS with [Phaser-CE](https://github.com/photonstorm/phaser-ce).
 
 - [RobotlegsJS-Phaser-CE-SignalCommandMap](https://github.com/RobotlegsJS/RobotlegsJS-Phaser-CE-SignalCommandMap): maps [Phaser.Signal](https://photonstorm.github.io/phaser-ce/Phaser.Signal.html) to commands.
 
 - [RobotlegsJS-Phaser](https://github.com/RobotlegsJS/RobotlegsJS-Phaser): integrate RobotlegsJS with [Phaser](https://github.com/photonstorm/phaser).
-
-- [RobotlegsJS-CreateJS](https://github.com/RobotlegsJS/RobotlegsJS-CreateJS): integrate RobotlegsJS with [EaselJS](https://github.com/CreateJS/EaselJS).
