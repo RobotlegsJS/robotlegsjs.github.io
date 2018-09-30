@@ -13,7 +13,7 @@ Right now, this framework has extensions for [pixi.js v4](https://github.com/pix
 
 Would you like to integrate RobotlegsJS core with another HTML5/JavaScript framework or library? Send us a message through [Gitter](https://gitter.im/RobotlegsJS/RobotlegsJS) or [Email](mailto:contact@robotlegsjs.io).
 
-**Features**
+# Features
 
 - Dependency injection (through [InversifyJS](https://github.com/inversify/InversifyJS))
 
@@ -21,11 +21,13 @@ Would you like to integrate RobotlegsJS core with another HTML5/JavaScript frame
 
 - View management
 
-**Extensions**
+# Extensions
 
 - [RobotlegsJS-Macrobot](https://github.com/RobotlegsJS/RobotlegsJS-Macrobot): extends commands, adding support to async and macro commands.
 
 - [RobotlegsJS-SignalCommandMap](https://github.com/RobotlegsJS/RobotlegsJS-SignalCommandMap): maps [SignalsJS](https://github.com/RobotlegsJS/SignalsJS) to commands.
+
+- [RobotlegsJS-EventEmitter3](https://github.com/RobotlegsJS/RobotlegsJS-EventEmitter3): integrate RobotlegsJS with [EventEmitter3](https://github.com/primus/eventemitter3).
 
 - [RobotlegsJS-Pixi](https://github.com/RobotlegsJS/RobotlegsJS-Pixi): integrate RobotlegsJS with [PixiJS](https://github.com/pixijs/pixi.js).
 
@@ -43,8 +45,7 @@ Would you like to integrate RobotlegsJS core with another HTML5/JavaScript frame
 
 - [RobotlegsJS-Phaser](https://github.com/RobotlegsJS/RobotlegsJS-Phaser): integrate RobotlegsJS with [Phaser](https://github.com/photonstorm/phaser).
 
-Motivation
-===
+# Motivation
 
 There are plenty of frameworks and patterns out there that helps you to write
 DOM-based applications. There is no scalable solution yet to architecture a
@@ -53,7 +54,6 @@ canvas-based application though.
 [Robotlegs](https://github.com/robotlegs/robotlegs-framework) has proven itself of being a mature solution from the ActionScript
 community for interactive experiences.
 
-License
-===
+# License
 
 [MIT](https://github.com/RobotlegsJS/RobotlegsJS/blob/master/LICENSE)

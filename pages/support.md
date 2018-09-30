@@ -30,6 +30,12 @@ RobotlegsJS-SignalCommandMap
 - [See all RobotlegsJS-SignalCommandMap issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-SignalCommandMap/issues?utf8=%E2%9C%93&q=is%3Aissue)
 - [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-SignalCommandMap/issues/new)
 
+RobotlegsJS-EventEmitter3
+===
+
+- [See all RobotlegsJS-EventEmitter3 issues on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-EventEmitter3/issues?utf8=%E2%9C%93&q=is%3Aissue)
+- [Repport an issue on GitHub](https://github.com/RobotlegsJS/RobotlegsJS-EventEmitter3/issues/new)
+
 RobotlegsJS-Pixi
 ===
 
